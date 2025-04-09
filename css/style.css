@@ -185,6 +185,7 @@ a:focus,
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 1px;
+  padding-top: 0%;
 }
 
 #menu.navbar-default .navbar-nav>li>a {
