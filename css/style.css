@@ -871,6 +871,12 @@ ul.type a:hover {
   transition-property: transform, opacity;
 }
 
+@media screen and (max-width:767px) {
+  .isotope .isotope-item {
+    width: 100% !important;
+  }
+}
+
 .portfolio-item {
   margin: 15px 0;
   font-size: var(--font-size-medium);
