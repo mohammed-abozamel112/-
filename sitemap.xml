@@ -7,21 +7,9 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://anwanprint.com/about.html</loc>
+    <loc>https://www.anwanprint.com/</loc>
     <lastmod>2024-01-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anwanprint.com/services.html</loc>
-    <lastmod>2024-01-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://anwanprint.com/contact.html</loc>
-    <lastmod>2024-01-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
   </url>
 </urlset>
